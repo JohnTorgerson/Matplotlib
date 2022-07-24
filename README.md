@@ -113,7 +113,7 @@ Review all the figures and tables that you generated in this assignment. Write a
 ## Team
 
 * Andrew Sundquist had a more simplified method of decluttering unusable mouse(study subject) data
-    also assisted me in manipulating data for boxplot exercise.
+    also assisted me in manipulating data for boxplot exercise (specifically finding 'in enumerate')
     
 * Sanoo Singh helped me differentiate the two different graph methods .plot vs pyplot
 
