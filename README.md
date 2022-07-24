@@ -110,18 +110,11 @@ Review all the figures and tables that you generated in this assignment. Write a
   * Where in the DataFrame can I find the names that will go into the labels?
 
  
-* Get help when you need it! Your instructional team is here to help.
-## Rubric
+## Team
 
-[Unit 5 Homework Rubric](https://docs.google.com/document/d/1ZZ0lFGHqKwVdqjTCfynY2FSiswuOMBVi9An7oWeg344/edit?usp=sharing)
+* Andrew Sundquist had a more simplified method of decluttering unusable mouse(study subject) data
+    also assisted me in manipulating data for boxplot exercise.
+    
+* Sanoo Singh helped me differentiate the two different graph methods .plot vs pyplot
 
-- - -
-
-## References
-
-Mockaroo, LLC. (2021). Realistic Data Generator. [https://www.mockaroo.com/](https://www.mockaroo.com/)
-
-- - -
-
-© 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
